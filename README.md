@@ -14,7 +14,20 @@
 ## Navigation and Use:
 
 **SQL Assingment** <br>
-The jupyter notebook coding assignments for the week are located in the Coding_Assignments folder. This holds all relavent coding material for instructors and students.
-* **Perceptron_Intructor** - This is the Perceptron Notebook with answers filled in and all cells run.  This goes along with the notebook that the students are completing.  Intructors will use this as a reference when assisting students, note that this is not the only way to implement the solutions.
-* **Perceptron_Student** - Perceptron Notebook with none of the answers filled in.  Students should complete this notebook as part of their homework assignment.
-* **Materials** - This folder holds the datasets and images imported by the coding assignment notebooks.
+All files for the SQL assignment are enclosed in the SQL Assignment Folder. The folder can be downloaded, and all the jupyter notebook files can be run locally from the folder location.
+* **SQL Assignment** - This is the student version of the assignment as a Jupyter Notebook. Students should have access to this file to complete the assingment.
+* **SQL Assignment Solution** - This is the instructor version of the Jupyter Notebook assingment. Instructors can view the answers, which are filled out.
+* **Political Tweets** - This file contains the database that the assignment uses.
+
+**Quiz** <br>
+The files for the quiz are available to download as PDFs.
+* **SQL Quiz** - This is the student version of the quiz without answers.
+* **SQL Quiz Solution** - This  is the instructor version of the quiz with answers.
+
+**Slides** <br>
+The slides are available to download as a PDF.
+* **SQL Slides** - This is the presentation as slides, to go along with the SQL Notes.
+
+**Notes** <br>
+Extensive notes for SQL are available to donwload as a PDF.
+* **SQL Notes** - These are the full length notes, in LaTex style.
