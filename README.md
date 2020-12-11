@@ -15,7 +15,7 @@ The learning objectives for the SQL week of "ML16" consists of getting the stude
 ## Navigation and Use:
 
 **SQL Assingment** <br>
-All files for the SQL assignment are enclosed in the SQL Assignment Folder. The folder can be downloaded, and all the jupyter notebook files can be run locally from the folder location.
+All files for the SQL assignment are enclosed in the SQL Assignment Folder. The folder can be downloaded, and all the jupyter notebook files can be run locally from the folder location. To use this file, unzip first.
 * **SQL Assignment** - This is the student version of the assignment as a Jupyter Notebook. Students should have access to this file to complete the assingment.
 * **SQL Assignment Solution** - This is the instructor version of the Jupyter Notebook assingment. Instructors can view the answers, which are filled out.
 * **Political Tweets** - This file contains the database that the assignment uses.
